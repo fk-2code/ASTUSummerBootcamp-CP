@@ -16,16 +16,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/fk-2code/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
+| [0832-flipping-an-image](https://github.com/fk-2code/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/fk-2code/ASTUSummerBootcamp-CP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/fk-2code/ASTUSummerBootcamp-CP/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/fk-2code/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/fk-2code/ASTUSummerBootcamp-CP/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Two Pointers
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/fk-2code/ASTUSummerBootcamp-CP/tree/master/0344-reverse-string) |
+| [0832-flipping-an-image](https://github.com/fk-2code/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/fk-2code/ASTUSummerBootcamp-CP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/fk-2code/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
+## Matrix
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/fk-2code/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
