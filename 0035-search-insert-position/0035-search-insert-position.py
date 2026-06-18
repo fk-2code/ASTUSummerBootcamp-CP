@@ -6,6 +6,7 @@ class Solution:
             mid = l + (r -l)//2
             if nums[mid] == target:
                 return mid
+                break
             elif nums[mid] < target:
                 l = mid + 1
             else:
