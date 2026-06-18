@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2769-find-the-maximum-achievable-number](https://github.com/fk-2code/ASTUSummerBootcamp-CP/tree/master/2769-find-the-maximum-achievable-number) |
+| [3895-count-digit-appearances](https://github.com/fk-2code/ASTUSummerBootcamp-CP/tree/master/3895-count-digit-appearances) |
 ## String
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/fk-2code/ASTUSummerBootcamp-CP/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/fk-2code/ASTUSummerBootcamp-CP/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/fk-2code/ASTUSummerBootcamp-CP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3895-count-digit-appearances](https://github.com/fk-2code/ASTUSummerBootcamp-CP/tree/master/3895-count-digit-appearances) |
 ## Simulation
 |  |
 | ------- |
