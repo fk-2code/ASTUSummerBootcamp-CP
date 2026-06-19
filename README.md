@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/fk-2code/ASTUSummerBootcamp-CP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/fk-2code/ASTUSummerBootcamp-CP/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/fk-2code/ASTUSummerBootcamp-CP/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/fk-2code/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/fk-2code/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/fk-2code/ASTUSummerBootcamp-CP/tree/master/0463-island-perimeter) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/fk-2code/ASTUSummerBootcamp-CP/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/fk-2code/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/fk-2code/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/fk-2code/ASTUSummerBootcamp-CP/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/fk-2code/ASTUSummerBootcamp-CP/tree/master/0036-valid-sudoku) |
 | [0463-island-perimeter](https://github.com/fk-2code/ASTUSummerBootcamp-CP/tree/master/0463-island-perimeter) |
 | [0832-flipping-an-image](https://github.com/fk-2code/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/fk-2code/ASTUSummerBootcamp-CP/tree/master/0867-transpose-matrix) |
